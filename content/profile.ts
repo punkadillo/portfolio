@@ -45,6 +45,21 @@ export const profile = profileSchema.parse({
       handle: "in/allanjeo",
     },
     {
+      label: "X",
+      href: "https://x.com/punkadilllo",
+      handle: "@punkadilllo",
+    },
+    {
+      label: "Reddit",
+      href: "https://www.reddit.com/user/punkadilllo/",
+      handle: "u/punkadilllo",
+    },
+    {
+      label: "Discord",
+      href: "https://discordapp.com/users/842839691388518450",
+      handle: "Message me",
+    },
+    {
       label: "Instagram",
       href: "https://www.instagram.com/jeoallan",
       handle: "@jeoallan",
